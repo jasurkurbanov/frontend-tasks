@@ -3,9 +3,18 @@
 
 
 ### Course modules 
-#### Brief
+#### Module 0. Basics
+- [Module 0. String](string.md/)
+- [Module 0. Number](number.md/)
+- [Module 0. Boolean](boolean.md/)
 - [Module 0. Objects](objects.md/)
 - [Module 0. Arrays](arrays.md/)
+
+#### Module 0. Projects
+- Number Projects
+- String Projects
+- Date Projects
+
 
 #### Extended
 - [Module 1. Working with objects](working-with-objects.md/)
