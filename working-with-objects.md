@@ -128,3 +128,6 @@ Now based on example above, you should create functions for printing following i
 
 ## Submittion
 Once you finished task, submit it to your Github with repository name `working-with-objects` and send link to me.
+
+## Links 
+Random Data From https://www.mockaroo.com/
