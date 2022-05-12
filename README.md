@@ -4,11 +4,18 @@
 
 ### Course modules 
 #### Module 0. Basics
+ - [Module 0. Variables](variables.md/)
+ - undefined null
 - [Module 0. String](string.md/)
 - [Module 0. Number](number.md/)
 - [Module 0. Boolean](boolean.md/)
+comparison operators
 - [Module 0. Objects](objects.md/)
 - [Module 0. Arrays](arrays.md/)
+- Function
+- Local Global Scope
+- Conditional if/else/switch
+- Immutabilty 
 
 #### Module 0. Projects
 - Number Projects
