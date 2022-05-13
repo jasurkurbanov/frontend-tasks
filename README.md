@@ -30,6 +30,10 @@ comparison operators
 Explain functions before this
 - [Module 1. Working with objects](working-with-objects.md/)
 
+40 minutes for doing tasks was not enough.
+Umar only 1 with 3 variants
+Mirjalol only 4 with 1 variants but with mistakes 
+
 Reusable function accross application, for example, date trimmer, or date converter
 data formatter, string uppercase, string lowercase
 
