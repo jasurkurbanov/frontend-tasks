@@ -3,6 +3,9 @@
 
 
 ### Course modules 
+Prerequisites:
+Install NodeJS, Git
+
 #### Module 0. Basics
  - [Module 0. Variables](variables.md/)
  - undefined null
@@ -23,10 +26,7 @@ comparison operators
 - Date Projects
 
 
-#### Extended
-Prerequisites:
-Install NodeJS, Git
-
+#### Module 1. Extened
 - [Module 1. Working with objects](working-with-objects.md/)
 - [Module 1. Working with arrays](working-with-arrays.md/)
 - [Module 1. Working with objects and arrays](working-with-objects-and-arrays.md/)
