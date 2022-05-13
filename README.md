@@ -24,6 +24,9 @@ comparison operators
 
 
 #### Extended
+Prerequisites:
+Install NodeJS, Git
+
 - [Module 1. Working with objects](working-with-objects.md/)
 - [Module 1. Working with arrays](working-with-arrays.md/)
 - [Module 1. Working with objects and arrays](working-with-objects-and-arrays.md/)
