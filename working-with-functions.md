@@ -40,3 +40,4 @@ Create functions for making:
 2) https://www.codewars.com/kata/5a360620f28b82a711000047
 3) https://www.codewars.com/kata/57eae20f5500ad98e50002c5
 4) https://www.codewars.com/kata/5583090cbe83f4fd8c000051
+5) https://www.codewars.com/kata/5dd462a573ee6d0014ce715b
