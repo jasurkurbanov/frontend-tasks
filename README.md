@@ -28,7 +28,7 @@ comparison operators
 
 
 #### Module 1. Extened
-Explain functions before this
+- [Module 1. Working with functions](working-with-functions.md/)
 - [Module 1. Working with objects](working-with-objects.md/)
 
 40 minutes for doing tasks was not enough.
