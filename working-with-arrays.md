@@ -92,7 +92,7 @@ console.log(friends);
 ```
 
 - unshift()
-```
+```js
 const friends = ['Amir', 'Ravshan'];
 friends.unshift('Eldor');
 console.log(friends);
