@@ -82,5 +82,22 @@ console.log(friendsName)
 // ['Bobur', 'Amir', 'Ravshan', 'Jasur'];
 ```
 
+### Adding value to arrray 
+- (push())
+```js
+const friends = ['Amir', 'Ravshan'];
+friends.push('Eldor');
+console.log(friends);
+// ['Amir', 'Ravshan', 'Eldor'];
+```
+
+- (unshift())
+```
+const friends = ['Amir', 'Ravshan'];
+friends.unshift('Eldor');
+console.log(friends);
+// ['Eldor', 'Amir', 'Ravshan';
+```
+
 
 
