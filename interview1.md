@@ -1,5 +1,4 @@
 ## Git 
-- Explain the Difference Between Git Pull and Git Fetch
 - Explain Git Push and Git Pull
 
 ## CSS
