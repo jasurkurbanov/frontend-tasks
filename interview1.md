@@ -26,6 +26,7 @@ The set of types in the JavaScript language consists of primitive values and obj
 - *Arrow function vs normal function*
 - *const, let var difference*
 - *hoisting*
+- localstorage vs sessionstorage
 
 ## React 
 - JSX
