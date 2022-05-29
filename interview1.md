@@ -38,7 +38,7 @@ The set of types in the JavaScript language consists of primitive values and obj
 - * react optimization*
 - * lazy loading *
 - * react portal*
-
+https://www.simplilearn.com/tutorials/reactjs-tutorial/reactjs-interview-questions
 ## Redux 
 - Common redux principle 
 - redux thunk redux saga
