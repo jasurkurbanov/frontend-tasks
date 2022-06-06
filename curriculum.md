@@ -4,6 +4,7 @@
 - HTML ga Kirish.
 - HTML taglar va attributelar
 - HTML Links , Img Links , Dowland Links...
+
 2-hafta
 - HTML taglar va attrebutela
 - HTML Youtube Iframe va WebSite Iframe
@@ -13,18 +14,21 @@
 - HTML Form , Input, Select, Textarea
 - HTML Login Page
 - Hosting NetLify dowland HTML file ....
+
 3-hafta
 - CSS Kirish
 - CSS Type va Selector
 - CSS Box Style advenced
 - CSS Text Style advenced
 - CSS Border, Radius, Shadows, Margin vs Padding
+
 4-hafta
 - CSS FlexBox 1 qism (FlexContainer)
 - CSS FlexBox 2 qism (FlexItem)
 - Figma
 - Real Project HTML + CSS
 - CSS Grid : GridContainer , GridItem
+
 5-hafta
 - CSS Position : proprties, z-index
 - CSS Psudeo Element va Attribute Selector
@@ -32,10 +36,12 @@ CSS Advenced :
 - CSS Transition
 - CSS Transform : scale, rotate, translate , skew
 - CSS Animation : timing vs from to
+
 6-hafta
 - CSS Media Query
 - Real WebSite HTML + CSS
 - HTML CSS boyicha interview savollariga tayyorlash...
+
 7-hafta
 - Javascriptga Kirish
 - Javascript Data types
@@ -44,18 +50,21 @@ CSS Advenced :
 - Number operator , method, type conversion, Math, NaN
 - Javascript String data type
 - String method, regex
+
 8-hafta
 - Javascript Function
 - Javascript Date obekti bilan ishlash
 - Javascript If else , switch , ternary
 - Javascript For loop, while loop , do while loop
 - Javascript mantiqiy masalalar yechish
+
 9-hafta
 - Javascript Array
 - Array method
 - Javascript Object data type
 - Object methods : keys , values, entries
 - Javascript mantiqiy masalalar yechish
+
 10-hafta
 - Javascript this keyword, call , bind , apply
 - Javascript Class function
@@ -65,6 +74,7 @@ CSS Advenced :
 - Javascript DOM
 - Javascript + HTML + CSS web site
 - Javascript interviewga tayyorlanish ...
+
 11-hafta
 - JavaScript Review qilish.
 - ReactJS ga Kirish.
