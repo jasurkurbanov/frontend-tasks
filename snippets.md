@@ -14,3 +14,6 @@ unzip -d hello hello.zip
 ```
 
 This creates a project folder with the name of the corresponding programming assignment (such as hello). Delete the zip file.
+
+
+first compile than execute programm
