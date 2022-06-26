@@ -17,3 +17,7 @@ This creates a project folder with the name of the corresponding programming ass
 
 
 first compile than execute programm
+
+
+### javac HelloWorld.java for compilation
+### java HelloWorld for execution
